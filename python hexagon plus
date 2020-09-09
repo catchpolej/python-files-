@@ -1,0 +1,39 @@
+import turtle
+
+t = turtle.Turtle()
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
+
+for c in ['black' , 'black' , 'black' , 'black' , 'black' ,'black']:
+    t.color(c)
+    t.forward(45)
+    t.left(60)
+t.left(60)
