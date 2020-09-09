@@ -1,0 +1,27 @@
+import turtle
+
+t = turtle.Turtle()
+t.speed(0)
+
+for c in ['blue' ,'blue' ,'blue' ,]:
+            for c in ['blue' ,'blue' ,'blue' ,]:
+                for c in ['blue' ,'blue' ,'blue' ,]:
+                  t.color(c)
+                  t.forward(60)
+                  t.left(120)
+
+                t.forward(10)
+
+                for c in ['blue' ,'blue' ,'blue' ,'blue' ]:
+                  t.color(c)
+                  t.forward(60)
+                  t.left(120)
+
+                t.forward(10)
+
+                for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue']:
+                  t.color(c)
+                  t.forward(60)
+                  t.left(120)
+
+                t.forward(10)
