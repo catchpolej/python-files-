@@ -1,2 +1,35 @@
-# hello-world
-just another repository
+import turtle
+
+t = turtle.Turtle()
+t.speed(0)
+for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+    for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+        t.color(c)
+        t.forward(75)
+        t.left(45)
+    t.forward(5)
+
+    for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+        t.color(c)
+        t.forward(75)
+        t.left(45)
+    t.forward(5)
+
+    for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+        t.color(c)
+        t.forward(75)
+        t.left(45)
+    t.forward(5)
+
+    for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+        t.color(c)
+        t.forward(75)
+        t.left(45)
+    t.forward(5)
+
+    for c in ['blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,'blue' ,]:
+        t.color(c)
+        t.forward(75)
+        t.left(45)
+    t.forward(5)
+
