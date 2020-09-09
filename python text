@@ -1,0 +1,10 @@
+import turtle
+
+turtle.color('______')
+style = ('Courier', 30, '______')
+turtle.write('Hello!', font=style, align='center')
+turtle.hideturtle()
+
+#the empty spaces are for you to change dependin on what you want there is a list in wiki page
+#blank one is the colour
+#blank to in the style
